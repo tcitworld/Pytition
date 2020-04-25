@@ -1283,7 +1283,7 @@ msgstr "Transférer la pétition"
 
 #: pytition/petition/templates/petition/transfer_petition.html:15
 msgid "You are going to transfer this petition to someone else:"
-msgstr "Vous allez transférer cette pétition à quelqu'un d'autre :"
+msgstr "Vous allez transférer cette pétition à quelqu'un d'autre :"
 
 #: pytition/petition/templates/petition/transfer_petition.html:26
 msgid ""
